@@ -4,7 +4,7 @@ public class Class1
 {
 	public Class1()
 	{
-		async=10
+		async=1
 		Console.WriteLine;
 		Console.ReadLine;
 	}
